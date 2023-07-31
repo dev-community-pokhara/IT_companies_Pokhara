@@ -6,7 +6,7 @@ List of tech companies (or teams) that are based or working in Pokhara. :nepal:
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | [A - C](#a---c) | [D - F](#d---f) | [G - I](#g---i) | [J - L](#j---l) | [M - O](#m---o) | [P - R](#p---r) | [S - U](#s---u) | [V - X](#v---x) | [Y - \#](#y---) |
 
-**Website:** https://airtable.com/shrXv3YvlfxLnHJfr
+
 
 ## Want to add new companies in the List?
 
