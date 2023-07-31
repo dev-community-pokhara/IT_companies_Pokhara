@@ -1,9 +1,58 @@
-# IT COMPANIES IN POKHARA
-This is the list of IT companies in pokhara.It helps you to get internship and job opportunities around Pokhara Valley.
-------
-|Company Name|Website_link|Domain|Email|Physical Address|Contact Number|
-|----------|:-------------:|------:|------:|---------:|--------:| 
-|Genese Software | [GOTO](https://www.genesesofts.com) | Cloud Computing | info@genesesofts.com | Durbarthok Marg, Pokhara |+97761541114| 
-|Code Sastra | [GOTO](https://codesastra.com/) | Web Development | hrm@codesastra.com | Phewa Marga ,Pokhara | 061 530625||Yarsa Labs | [GOTO](https://yarsa.io) | Game Development | NA | Upakar Marga, Pokhara 12, Nepal | 061-521916| 
-|Web Soft Nepal | [GOTO](http://www.websoftnepal.com.np/) | Software and web | info@websoftnepal.com.np | Srijana Chowk, Pokhara |+977 61 538358| 
-|Jankari Tech | [GOTO](https://www.jankaritech.com/) | Testing, QA | info@jankaritech.com | Rishi Marga, |061-620999| 
+# Tech Companies in Pokhara
+
+List of tech companies (or teams) that are based or working in Pokhara. :nepal:
+
+|                 |                 |                 |                 |                 |                 |                 |                 |                 |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| [A - C](#a---c) | [D - F](#d---f) | [G - I](#g---i) | [J - L](#j---l) | [M - O](#m---o) | [P - R](#p---r) | [S - U](#s---u) | [V - X](#v---x) | [Y - \#](#y---) |
+
+**Website:** https://airtable.com/shrXv3YvlfxLnHJfr
+
+## Want to add new companies in the List?
+
+- [Fork](https://guides.github.com/activities/forking) the repository
+- Add your company in alphabetical order using the mentioned format below
+- Company description should be short and should not end with a period
+
+### Format
+
+```
+- [Company Name](https://my.company) | location, city | what does it do
+```
+
+### Duds
+
+If you cannot provide a valid website for your company, your PR will not be accepted.
+
+---
+
+## A - C
+- [Black Tech](https://www.blacktech.com.np) |Zero Km, Pokhara 33700| Specialize in software engineering,product development, web/mobile application development,and digital modification
+
+## D - F
+
+
+## G - I
+
+## J - L
+- [JankariTech](https://www.jankaritech.com/) | Nayagaun, Pokhara | Helping customers set up test automation
+
+## M - O
+
+
+## P - R
+
+## S - U
+
+
+## V - X
+
+
+
+## Y - \#
+
+- [Yarsa Labs](https://yarsa.io/) | Zero Kilometer, Pokhara | Building and distributing high quality software applications for mobile and the web
+
+
+---
+
