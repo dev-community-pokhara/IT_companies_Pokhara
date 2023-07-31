@@ -1,6 +1,6 @@
 # Tech Companies in Pokhara
 
-List of tech companies (or teams) that are based or working in Pokhara. :nepal:
+List of tech companies in Pokhara, Nepal
 
 |                 |                 |                 |                 |                 |                 |                 |                 |                 |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
