@@ -27,7 +27,7 @@ If you cannot provide a valid website for your company, your PR will not be acce
 ---
 
 ## A - C
-- [Black Tech](https://www.blacktech.com.np) |  Zero Km, Pokhara 33700  |  Specialize in software engineering,product development, web/mobile application development,and digital modification
+- [Black Tech](https://www.blacktech.com.np) |  Zero Km, Pokhara 33700  |  Specialize in software engineering,product development, web/mobile application development,and digital modification | contact number:977 9802839909
 
 ## D - F
 
@@ -35,7 +35,7 @@ If you cannot provide a valid website for your company, your PR will not be acce
 ## G - I
 
 ## J - L
-- [JankariTech](https://www.jankaritech.com/) | Nayagaun, Pokhara | Helping customers set up test automation | 
+- [JankariTech](https://www.jankaritech.com/) | Nayagaun, Pokhara | Helping customers set up test automation | 977 9806659226
 
 ## M - O
 
@@ -51,7 +51,7 @@ If you cannot provide a valid website for your company, your PR will not be acce
 
 ## Y - \#
 
-- [Yarsa Labs](https://yarsa.io/) | Zero Kilometer, Pokhara | Building and distributing high quality software applications for mobile and the web
+- [Yarsa Labs](https://yarsa.io/) | Zero Kilometer, Pokhara | Building and distributing high quality software applications for mobile and the web | 977 9801022055
 
 
 ---
