@@ -38,6 +38,10 @@ Nepal | Embrace a futuristic vision of growing into a trusted IT consultant and 
 
 - [Black Tech](https://www.blacktech.com.np) |  Zero Km, Pokhara 33700  |  Specialize in software engineering,product development, web/mobile application development,and digital modification |  9802839909
 
+
+- [Codekavya](https://www.codekavya.com) | Kadam Marga -14, Khasi bazar Road, Pokhara | "Bringing ideas to Life" : Offers end-to-end solutions for full-stack web development, mobile application development, digital marketing and many more | 9825141512
+
+
 - [Clinch Tech](https://clinchtech.net/) | Parshyang-05, Pokhara | a wide range of services to flourish your business, from designing creative and user-friendly interfaces to developing enterprise-level business applications. | 9802834141
 
 - [Code Soch] (http://codesoch.software/) | Street 20 Khahare Lakeside - Pokhara | Code Soch is a newly formed team of software developers. We are highly motivated individuals with ample knowledge of shipping a corporate grade product. | 9816 144 937
