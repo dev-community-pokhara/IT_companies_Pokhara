@@ -40,6 +40,7 @@ If you cannot provide a valid website for your company, your PR will not be acce
 | [P H Solution](http://phsolution.com.np/) | Pokhara-11, Kaski, Nepal | Specializes in website, graphics, mobile apps, and software development, providing IT solutions for modern progressive businesses | 9817110215 |
 | [Skybase Innovations](https://skybase.com.np/) | New Road New, Behind Bhatbhateni SuperMarket | Provides "long-term, high-trust" software development services | 9845533797 |
 | [Thulo Technology](https://thulotechnology.com/) | Pokhara 11, Fulbari, Nepal | Offers custom mobile app development, UI/UX design, app testing, and ongoing maintenance and support for both Android and iOS platforms | 977 9809373860 |
+| [TonicByte](https://tonicbyte.com/) | Zero KM, Pokhara, Nepal | Mobile, Web & Desktop Application Development, Cloud Computing, AI & Web3 | 977 9849951111 |
 | [Tuki Soft](tukisoft.com.np) | Sirjanchok-08, Pokhara, Kaski | Delivers various IT services such as Web Development, Mobile App Development, and Software Development, provides internships for freshers | 977 9806615716 |
 | [Urja Lab](https://urjalab.org/) | New Road, Pokhara | Provides a secure, positive, and intellectually stimulating environment, focusing on individual development | 977-9856078508 |
 | [WEBSOFT TECHNOLOGY NEPAL](https://websoftnepal.com.np/) | Srijana Chowk, Pokhara-8, Nepal | Privately owned software company delivering IT services including outsourcing, hosting, custom software application development, and more | 977 61-538358 |
